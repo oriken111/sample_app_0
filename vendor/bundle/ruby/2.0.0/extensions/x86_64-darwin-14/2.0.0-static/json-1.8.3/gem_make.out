@@ -1,0 +1,10 @@
+/Users/oriken111/.rvm/rubies/ruby-2.0.0-p643/bin/ruby -r ./siteconf20151018-17760-bclbj2.rb extconf.rb
+creating Makefile
+
+make "DESTDIR=" clean
+
+make "DESTDIR="
+make: Nothing to be done for `all'.
+
+make "DESTDIR=" install
+installing default libraries
